@@ -1,0 +1,3 @@
+-- :t length "hello world" 
+-- length "hello world" :: Int
+-- 13

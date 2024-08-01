@@ -1,0 +1,6 @@
+-- (a) invalid, mixed String with Int in a list
+-- (b) invalid, mixed Char with String
+-- (c) valid, Char
+-- (d) valid, Int
+-- (e) valid, Int
+-- (f) valid, Type: Foldable t => [a] -> [a]

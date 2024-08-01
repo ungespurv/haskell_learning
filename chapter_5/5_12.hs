@@ -1,0 +1,2 @@
+eulerSum :: Int -> Int
+-- lazy
